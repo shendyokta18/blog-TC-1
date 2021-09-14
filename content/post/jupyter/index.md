@@ -1,4 +1,9 @@
 ---
+title: SaaS Netlify
+subtitle: Membahas tentang teknologi integrasi antara netlify dan github.
+  Netlify, perusahaan cloud computing yang menawarkan layanan hosting dan
+  backend tanpa server untuk aplikasi web dan situs web statis
+date: 2021-09-14T15:00:00.000Z
 summary: >-
   <!--StartFragment-->
 
@@ -7,16 +12,16 @@ summary: >-
 
 
   <!--EndFragment-->
+draft: true
+featured: true
 authors:
   - admin
-lastMod: 2019-09-05T00:00:00Z
-title: SaaS Netlify
-subtitle: Membahas tentang teknologi integrasi antara netlify dan github.
-  Netlify, perusahaan cloud computing yang menawarkan layanan hosting dan
-  backend tanpa server untuk aplikasi web dan situs web statis
-date: 2021-09-14T15:00:00.000Z
-tags: []
-categories: []
+  - Shendy
+lastMod: 2019-09-05T00:00:00.000Z
+tags:
+  - AKAKOM
+categories:
+  - Materikuliah
 projects: []
 image:
   caption: ""
