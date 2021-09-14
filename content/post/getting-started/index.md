@@ -12,8 +12,8 @@ summary: >-
 
 
   <!--EndFragment-->
-draft: false
-featured: false
+draft: true
+featured: true
 authors:
   - admin
   - Shendy
