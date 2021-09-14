@@ -1,16 +1,23 @@
 ---
+title: Teknologi Cloud Computing
 summary: Sederhananya, cloud computing (komputasi awan) adalah metode
   penyampaian berbagai layanan melalui internet.
+authors:
+  - admin
+  - Shendy
 math: true
 date: 2019-07-12T15:00:00.000Z
 diagram: true
 highlight: true
-title: Teknologi Cloud Computing
 subtitle: Mengenal Cloud Computing
+tags:
+  - AKAKOM
+categories:
+  - Materikuliah
 image:
   placement: 3
-  caption: "Image credit: [**John Moeses
-    Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
+  caption: ""
+  filename: download.png
 ---
 # Cloud Computing
 
