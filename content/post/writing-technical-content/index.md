@@ -18,6 +18,7 @@ image:
   placement: 3
   caption: ""
   filename: download.png
+  alt_text: https://id.wikipedia.org/wiki/Komputasi_awan
 ---
 # Cloud Computing
 
